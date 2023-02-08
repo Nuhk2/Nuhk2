@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![nuhk](https://user-images.githubusercontent.com/124649431/217531081-9a295349-fb99-4590-b55f-f23831716787.png)
+
 <!--
 **Nuhk2/Nuhk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
