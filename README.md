@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![nuhk](https://user-images.githubusercontent.com/124649431/217531081-9a295349-fb99-4590-b55f-f23831716787.png)
 
