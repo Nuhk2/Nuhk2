@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nuh 👋
 
-A multi-disciplinary tech enthusiast bridging the gaps between quality, code, and intelligence. I specialize in **Frontend Web Development**, robust **Quality Assurance**, and exploring **Artificial Intelligence & Automation**.
+A multi-disciplinary tech enthusiast bridging the gaps between quality, code, security, and intelligence. I specialize in **Frontend Web Development**, robust **Quality Assurance**, **Cybersecurity & SOC Analysis**, and **Artificial Intelligence & Automation**.
 
 ---
 
@@ -10,17 +10,18 @@ A multi-disciplinary tech enthusiast bridging the gaps between quality, code, an
 
 * **Frontend Web Developer:** Building responsive, high-performance web applications, custom components, and dynamic user interfaces with clean architecture.
 * **Software Quality Assurance:** Crafting comprehensive test suites, validating API contracts, identifying system edge cases, and ensuring seamless software delivery through meticulous manual testing and automated workflows.
-* **Aspiring AI Engineer:** Building RAG (Retrieval-Augmented Generation) architectures, integrating modern LLMs, and exploring intelligent automation tools for modern software development and QA testing.
+* **Aspiring AI Engineer:** Building RAG (Retrieval-Augmented Generation) architectures, integrating modern LLMs, and exploring intelligent automation tools for software development and testing.
+* **SOC Analyst & Cybersecurity Specialist:** Monitoring network security, executing defensive auditing, technology profiling, and leveraging threat intelligence tools to keep systems resilient against vulnerabilities.
 
 ---
 
 ### 🛠️ What I'm Up To
 
 * 🔭 **I’m currently working on:** Interactive React components, automated testing suites, and RAG-based AI applications.
-* 🌱 **I’m currently learning:** Playwright automation, AI/ML engineering fundamentals, and defensive cybersecurity auditing.
-* 👯 **I’m looking to collaborate on:** Open-source QA tools, frontend React/WordPress projects, and innovative AI/automation experiments.
-* 💬 **Ask me about:** Frontend architecture, RAG pipelines, API testing & bug tracking, CSS layout design (Flexbox/Grid), or video editing in DaVinci Resolve.
-* ⚡ **Fun fact:** When I'm not finding bugs, building layouts, or training models, I’m usually color grading atmospheric astrophotography or diving into co-op games!
+* 🌱 **I’m currently learning:** Security Operations Center (SOC) workflows, Playwright automation, and advanced AI/ML engineering pipelines.
+* 👯 **I’m looking to collaborate on:** Open-source QA tools, cybersecurity utilities, frontend React/WordPress projects, and innovative AI experiments.
+* 💬 **Ask me about:** Frontend architecture, SOC monitoring & threat profiling, RAG pipelines, API testing, or video editing in DaVinci Resolve.
+* ⚡ **Fun fact:** When I'm not finding bugs, hunting security threats, or building layouts, I’m usually color grading atmospheric astrophotography or diving into co-op games!
 
 ---
 
@@ -31,8 +32,9 @@ A multi-disciplinary tech enthusiast bridging the gaps between quality, code, an
 | **Frontend Dev** | `HTML5` `CSS3` `JavaScript` `React` `Bootstrap` `WordPress` `ESLint` `Prettier` `Babel` |
 | **AI & RAG Engineering** | `RAG Architectures` `PyTorch` `NumPy` `Pandas` `Scikit-Learn` `Docker` |
 | **QA & API Testing** | `Playwright` `Selenium` `Postman` `Swagger` `SonarQube` `Jest` `Sentry` |
+| **Cybersecurity & SOC** | `Kali Linux` `Nmap` `Cisco` `WireGuard` `Tor` `Threat Reconnaissance` `Log Analysis` |
 | **Hosting & CI/CD** | `Vercel` `Netlify` `Firebase` `AWS` `Git` `GitHub Actions` `GitLab` |
-| **Security & Utilities** | `Kali Linux` `Nmap` `Cisco` `WireGuard` `Tor` `Jira` `Confluence` `DaVinci Resolve` `Spline 3D` |
+| **Utilities & Creative** | `Jira` `Confluence` `DaVinci Resolve` `Spline 3D` |
 
 ---
 
