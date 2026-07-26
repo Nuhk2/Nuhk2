@@ -20,7 +20,7 @@ A multi-disciplinary tech enthusiast bridging the gaps between quality, code, se
 * 🔭 **I’m currently working on:** Interactive React components, automated testing suites, and RAG-based AI applications.
 * 🌱 **I’m currently learning:** Security Operations Center (SOC) workflows, Playwright automation, and advanced AI/ML engineering pipelines.
 * 👯 **I’m looking to collaborate on:** Open-source QA tools, cybersecurity utilities, frontend React/WordPress projects, and innovative AI experiments.
-* 💬 **Ask me about:** Frontend architecture, SOC monitoring & threat profiling, RAG pipelines, API testing, or video editing in DaVinci Resolve.
+* 💬 **Ask me about:** Frontend architecture, SOC monitoring & threat profiling, RAG pipelines, API testing, or video editing.
 * ⚡ **Fun fact:** When I'm not finding bugs, hunting security threats, or building layouts, I’m usually color grading atmospheric astrophotography or diving into co-op games!
 
 ---
@@ -35,14 +35,6 @@ A multi-disciplinary tech enthusiast bridging the gaps between quality, code, se
 | **Cybersecurity & SOC** | `Kali Linux` `Nmap` `Cisco` `WireGuard` `Tor` `Threat Reconnaissance` `Log Analysis` |
 | **Hosting & CI/CD** | `Vercel` `Netlify` `Firebase` `AWS` `Git` `GitHub Actions` `GitLab` |
 | **Utilities & Creative** | `Jira` `Confluence` `DaVinci Resolve` `Spline 3D` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuhk2&show_icons=true&theme=tokyonight" alt="Nuh's GitHub Stats" />
-</p>
 
 ---
 
@@ -65,8 +57,3 @@ A multi-disciplinary tech enthusiast bridging the gaps between quality, code, se
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=nuhk2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
