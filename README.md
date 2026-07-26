@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-# Hi there, I'm Nuh 👋
+# Hi there, I'm Najam Ul Hassan 👋
 
 A multi-disciplinary tech enthusiast bridging the gaps between quality, code, security, and intelligence. I specialize in **Frontend Web Development**, robust **Quality Assurance**, **Cybersecurity & SOC Analysis**, and **Artificial Intelligence & Automation**.
 
