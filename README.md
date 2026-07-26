@@ -41,7 +41,7 @@ A multi-disciplinary tech enthusiast bridging the gaps between quality, code, se
 ### 📫 Connect with Me
 
 * 💼 **LinkedIn:** [Najam Ul Hassan](https://www.linkedin.com/in/najam-ul-hassan-551ba8212/)
-* * 🌐 **Portfolio:** [nuhk-portfolio](https://nuhk-portfolio.vercel.app/)
+* 🌐 **Portfolio:** [nuhk-portfolio](https://nuhk-portfolio.vercel.app/)
 * ✉️ **Email:** nuhk334@gmail.com
 
 
